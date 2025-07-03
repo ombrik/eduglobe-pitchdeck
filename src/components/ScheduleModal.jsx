@@ -1,0 +1,1 @@
+export default function ScheduleModal() { return <div>Модалка записи на зачёт</div>; }

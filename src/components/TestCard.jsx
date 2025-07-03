@@ -1,0 +1,1 @@
+export default function TestCard() { return <div>Тест</div>; }

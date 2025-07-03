@@ -1,0 +1,1 @@
+export default function DiplomaModal() { return <div>Модалка диплома</div>; }
